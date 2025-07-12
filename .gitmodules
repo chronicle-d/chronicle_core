@@ -1,0 +1,3 @@
+[submodule "include/relics/relic-telnet"]
+	path = include/relics/relic-telnet
+	url = git@github.com:chronicle-d/relic-telnet.git
